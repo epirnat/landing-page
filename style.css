@@ -61,6 +61,11 @@ body {
 	padding: 4rem 1rem;
 }
 
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
 .grid-3 {
 	display: grid;
 	grid-gap: 20px;
